@@ -47,9 +47,9 @@ I'm a passionate Cloud & DevOps Engineer with hands on experience in building sc
 ## 💼 Work Experience
 
 - **Saayam For All** – *DevSecOps Engineer* | Aug 2025 – Present  
-  - Built secure multi-zone AWS infrastructure with Pulumi & Python, improving deployment reliability by 25%.  
-  - Integrated SAST, DAST, and IAST tools into CI/CD pipelines, reducing vulnerabilities by 40%.  
-  - Automated compliance checks and orchestrated containerized deployments, increasing deployment frequency by 30%.  
+  - Building secure multi-zone AWS infrastructure with Pulumi & Python, improving deployment reliability by 25%.  
+  - Integrating SAST, DAST, and IAST tools into CI/CD pipelines, reducing vulnerabilities by 40%.  
+  - Automating compliance checks and orchestrating containerized deployments, increasing deployment frequency by 30%.  
 
 - **JoinDevOps Bootcamp** – *DevSecOps Trainee* | Jan 2025 – Jun 2025  
   - Completed 120+ hours of intensive DevSecOps training with hands-on projects on AWS, Azure, Docker, Jenkins, Terraform, and Kubernetes.  
